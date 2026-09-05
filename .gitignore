@@ -1,0 +1,30 @@
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Installer outputs
+*.exe
+*.msi
+*.bin
+
+# Logs
+*.log
+
+# Environment
+.env
+.venv/
+venv/
